@@ -1,0 +1,1 @@
+{"output":"[ 'exuberant', 'destruction', 'present' ]\n","stdErr":""}
